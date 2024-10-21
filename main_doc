@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="styles.css">
+<html lang="en">
+  <head>Tech Test Page and My Rantings
+    <body>
+  <nav id="navbar">
+    <header>My Rantings</header>
+    <a class="nav-link">Hello World
+  </nav>
+  <main id="main-doc">
+    <section class="main-section" id="intro">
+<header>Intro</header>
+  <p>Potatoes on Ice</p>
+  <p>Running on Ice</p>
+    </section>
+    <section class="main-section" id="about">
+<header>About</header>
+<p>Big P not the lil one</p>
+<li><ul>Bears</ul>
+    <ul>Beets</ul>
+    <ul>BattleStar Gallactica</ul>
+    </li>
+    </section>
+    <section class="main-section" id="fun_facts">
+<header>Fun Facts</header>
+<p>Madea movies make me angry</p>
+<p>I'm paying for all these services to entertain me and I'm bored most of the time. Ugh.</p>
+    </section>
+    <section class="main-section" id="more_info">
+<header>More Info</header>
+<p>I'm just doing stuff at this point</p>
+    </section>
+    <section class="main-section" id="dad_jokes">
+<header>Dad Jokes</header>
+<p>A snake walks into a bar</p>
+<p>He ordered a mint julep</p>
+<p>The bartender saddles up to him and says</p>
+<p>How tf did you do that??</p>
+    </section>
+    <section class="main-section" id="follow_up">
+<header>Follow Up</header>
+<p>Seriously WHO is actually drinking a mint julep voluntarily?</p>
+<li><ul>Dunder Mifflin</ul>
+    <ul>The people person's paper people</ul></li>
+    </section>
+    </main>
+    </body>
+</html>
